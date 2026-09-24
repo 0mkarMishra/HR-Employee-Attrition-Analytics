@@ -29,4 +29,4 @@ Python (Pandas, NumPy, Matplotlib) · SQL (MySQL) · Tableau
 - `HR_Project.twbx` — Tableau dashboard (packaged workbook)
 
 ## Dashboard
-[Tableau Public link once you publish it]
+![HR Attrition Overview Dashboard](HR_Attrition_Overview_.png)
